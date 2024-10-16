@@ -9,3 +9,4 @@ Raspberry Pi Pico C/C++ SDK on Windows with Visual Code - https://www.youtube.co
 
 Add Raspberry pi pico w in Fritzing - https://youtu.be/kr9qWvAxf_g?si=cbJDV-LrRrFJde3J
 
+🥇Como instalar ESP32 IDF y hacer tu PRIMER PROGRAMA | Sin Arduino - Framework Oficial - https://www.youtube.com/watch?v=SP42UUjHKsY&t=299s
